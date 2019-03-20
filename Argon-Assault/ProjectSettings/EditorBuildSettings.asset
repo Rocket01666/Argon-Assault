@@ -9,9 +9,9 @@ EditorBuildSettings:
     path: 
     guid: 00000000000000000000000000000000
   - enabled: 1
-    path: Assets/Game/Splash.unity
+    path: Assets/Game/0 Splash/Splash.unity
     guid: 1d3485c1a595a7941a2dddd25a737127
   - enabled: 1
-    path: Assets/Game/Level 1.unity
+    path: Assets/Game/Level 1/Level 1.unity
     guid: ce801c14965c1db488f91504b3e15b8a
   m_configObjects: {}
