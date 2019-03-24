@@ -10,13 +10,13 @@ public class Crosshair : MonoBehaviour
     // Start is called before the first frame update
     void Start()
     {
-        //Cursor.visible = false;
+        Cursor.visible = false;
     }
 
     // Update is called once per frame
     void Update()
     {
-        //this.transform.position = Input.mousePosition;
+        this.transform.position = Input.mousePosition;
 
           if (Input.GetButtonDown("Fire1"))
         {
